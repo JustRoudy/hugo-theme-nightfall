@@ -12,7 +12,7 @@ user = "root"
 hostname = "roudy.xyz"
   [params.author]
     name = "Roudy"  # Website and RSS feed author
-    email = "NoEmail"
+    email = "placeholder@0legendary.xyz"
 
 [[params.social]]
 key = 1
