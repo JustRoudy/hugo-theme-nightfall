@@ -1,3 +1,18 @@
 [module]
   [module.hugoVersion]
     min = "0.114.0"
+
+[[params.social]]
+key = 1
+name = "GitHub"
+url = "https://github.com/LegendaryDevOfficial"
+
+[[params.social]]
+key = 2
+name = "TikTok"
+url = "https://tiktok.com/@roxdy"
+
+[[params.social]]
+key = 3
+name = "Instagram"
+url = "https://instagram.com/roxdyy"
