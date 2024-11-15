@@ -1,11 +1,6 @@
 [module]
   [module.hugoVersion]
     min = "0.114.0"
-[menu]
-  [[menu.header]]
-    name = "about"
-    weight = 1
-    url = "about"
 
 [params]
 user = "root"
