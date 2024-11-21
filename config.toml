@@ -15,6 +15,11 @@ name = "GitHub"
 url = "https://github.com/Roxdyyy"
 
 [[params.social]]
+key = 4
+name = "My MyMUN Profile"
+url = "https://mymun.com/profile/294920"
+
+[[params.social]]
 key = 2
 name = "TikTok"
 url = "https://tiktok.com/@roxdy"
