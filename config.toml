@@ -2,6 +2,13 @@
   [module.hugoVersion]
     min = "0.114.0"
 
+[menu]
+  [[menu.header]]
+    name = "about"
+    weight = 0
+    url = "about"
+
+
 [params]
 user = "root"
 hostname = "roudy.xyz"
