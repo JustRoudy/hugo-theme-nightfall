@@ -2,6 +2,8 @@
   [module.hugoVersion]
     min = "0.114.0"
 
+<link rel="icon" href="/icon.svg?v=2">
+
 [menu]
   [[menu.header]]
     name = "about"
