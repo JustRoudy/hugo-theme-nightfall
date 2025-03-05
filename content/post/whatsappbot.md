@@ -1,7 +1,7 @@
 +++
 title = "Whatsapp Bot"
 description = "decode and make it work urself xD heres the code do everything else urself lol"
-date = "2019-02-28"
+date = "2025-03-05"
 aliases = ["whatsapp"]
 author = "Roudy"
 +++
