@@ -5,6 +5,10 @@
 
 [menu]
   [[menu.header]]
+    name = "my code"
+    weight = 0
+    url = "code"
+  [[menu.header]]
     name = "about"
     weight = 0
     url = "about"
