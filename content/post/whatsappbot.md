@@ -1,6 +1,6 @@
 +++
 title = "Whatsapp Bot"
-description = "decode and make it work urself xD heres the code do everything else urself lol"
+description = "Whatsapp bot coded in whatsapp-web.js"
 date = "2025-03-05"
 aliases = ["whatsapp"]
 author = "Roudy"
