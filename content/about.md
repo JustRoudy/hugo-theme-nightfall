@@ -6,4 +6,4 @@ aliases = ["about-me", "about-roudy"]
 author = "Roudy"
 +++
 
-Placeholder page, coming soon.
+Hey there, I'm Roudy, a Lebanese-Canadian teen with a few passions like: Photography, Coding, Planes, etc..
